@@ -40,7 +40,6 @@ const phoneNum = require("awesome-phonenumber");
 const gis = require("g-i-s");
 const got = require("got");
 const imageToBase64 = require("image-to-base64");
-const ID3Writer = require("browser-id3-writer");
 const crypto = require('crypto')
 const yts = require("yt-search");
 const ms = require("parse-ms");
